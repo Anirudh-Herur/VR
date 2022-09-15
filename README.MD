@@ -1,2 +1,2 @@
 # Vr-Projects
-All VR proojects are in branches
+All VR projects are in branches
